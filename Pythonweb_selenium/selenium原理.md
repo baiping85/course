@@ -4,6 +4,11 @@ Selenium是ThoughtWorks员工在业余时间开发并维护的开源项目，并
 
 **Selenium 原理**
 
+<<<<<<< HEAD
+=======
+![1f021151a5ccf0367c6d08ac3b44a50f.png](en-resource://database/1210:0)
+
+>>>>>>> dc5206a8b80b43afbe176e5e13fe9cc6b6ff8b49
 
 
 **selenium环境搭建**
@@ -13,9 +18,15 @@ Client：　
 pycharm　python3.6
 
 Driver：　
+<<<<<<< HEAD
 Chrome     → ChromeDriver　
 Firefox    → FirefoxDriver　
 IE         → InternetExplorerDriverSelenium
+=======
+Chrome  → ChromeDriver　
+Firefox    → FirefoxDriver　
+IE          → InternetExplorerDriverSelenium
+>>>>>>> dc5206a8b80b43afbe176e5e13fe9cc6b6ff8b49
 
 
 **Selenium安装**
@@ -32,5 +43,11 @@ driver.get("http://www.baidu.com")  # 打开百度网址
 使用脚本启动不同浏览器启动浏览器前需配置好浏览器对应driver：
 Chrome --chromedriver.exe ：谷歌浏览器调试驱动插件Firefox --geckodrive.exe ： 火狐浏览器调试驱动插件IE --MicrosoftWebDriver.exe ： IE浏览器调试驱动插件将上面三个exe文件下载后放置到python目录下
 
+<<<<<<< HEAD
 
 <font color=red>注意：启动谷歌浏览器前需要配置好谷歌浏览器中间件 ，从网上下载chromedriver.exe ，将其放置到python的安装目录下<fontt>
+=======
+```
+<font color=red>注意：启动谷歌浏览器前需要配置好谷歌浏览器中间件 ，从网上下载chromedriver.exe ，将其放置到python的安装目录下<fontt>
+```
+>>>>>>> dc5206a8b80b43afbe176e5e13fe9cc6b6ff8b49
